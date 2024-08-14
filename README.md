@@ -1,5 +1,3 @@
-
-
 # Python Learning Guide By Urooj Islam
 
 ## 1. Introduction to Python
